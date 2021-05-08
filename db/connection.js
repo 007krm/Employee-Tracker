@@ -473,6 +473,6 @@ function updateEmployeeMgr(answer) {
 }
 
 function endSession() {
-  console.log("Session ended. Thanks for using Employee Tracker CMS.");
+  console.log("Session ended. Thanks for using Employee Tracker .");
   connection.end();
 }
